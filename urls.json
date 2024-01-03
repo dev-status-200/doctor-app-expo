@@ -1,0 +1,7 @@
+{
+    "local_url":"https://doctorappserver-1-b9421760.deta.app",
+    "local_url_fxied":"http://192.168.18.5:8080",
+    "live_url":"https://doctorappserver-1-b9421760.deta.app",
+    "stripe_publishable_key":"pk_test_51O2Aj9Fpishfs76QRtWA5nW1r6zkdh3yEXdDMtDx6hSiehXQlqLV5kLJd55SEYOTnzJv6Be9kRMMpfFxnU4RxuGi00LLrv4W1W",
+    "stripe_secret_key":"sk_test_51O2Aj9Fpishfs76QdVWY9Xv7USEgijWgqsGBfhYxIKor5foxKi10miGLUvrh7WCAryFmWJbY2Qyr4IGfVBuUEXI800yxvkYnMq"
+}
